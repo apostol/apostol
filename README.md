@@ -1,26 +1,26 @@
 # Projects
 ## Games
-- [Take Over Planet (Android, Java)](https://github.com/apostol/demo-takeoverplanet.android) [hold]
-- [Take Over Planet (Godot, GD)](https://github.com/apostol/demo-takeoverplanet.godot) [hold]
+- [Take Over Planet (Android, Java)](https://github.com/apostol/demo-takeoverplanet.android) **[hold]**
+- [Take Over Planet (Godot, GD)](https://github.com/apostol/demo-takeoverplanet.godot) **[hold]**
 
 ## AWS
-- Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) [in progress]
-  - FrontEnd [in progress]
+- Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
+  - FrontEnd
     - [VueJS](https://vuejs.org/)
-  - FrontEnd(ReactJS) [in progress]
+  - FrontEnd(ReactJS
     - [ReactJS](https://reactjs.org/)
-  - FrontEnd(AngularJS) [in progress]
+  - FrontEnd(AngularJS)
     - [AngularJS](https://angularjs.org/)
-  - BackEnd [in progress]
+  - BackEnd
     - [TypeScript](https://www.typescriptlang.org/)
     - [Serverless](https://www.serverless.com/)
     - [NodeJs](https://nodejs.org/en/)
 
 ## Flutter
-- [QuestBook Store Mobile Application](https://github.com/apostol/questbook-store-flutter) [hold]
+- [QuestBook Store Mobile Application](https://github.com/apostol/questbook-store-flutter) **[hold]**
 
 ## Tools
-- [gRPC<->GraphQL](https://github.com/apostol/grpc2graphQL) [in progress]
+- [gRPC<->GraphQL](https://github.com/apostol/grpc2graphQL) **[in progress]**
   - [TypeScript](https://www.typescriptlang.org/)
   - [NodeJs](https://nodejs.org/en/)
   - [gRPC](https://grpc.io/)
@@ -28,7 +28,7 @@
   - [Docker](https://www.docker.com/)
 
 ## As techer in IT-Cube Izhevsk
-- Mobile(Android, IPhone) Application for Russia Museum [in progress]
+- Mobile(Android, IPhone) Application for Russia Museum (repo is private) **[in progress]**
   - [Quasar](https://quasar.dev/)
   - [VueJS](https://vuejs.org/)
   - [Pinia](https://pinia.vuejs.org/)
