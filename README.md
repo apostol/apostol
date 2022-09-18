@@ -1,8 +1,4 @@
 # Projects
-## Games
-- [Take Over Planet (Android, Java)](https://github.com/apostol/demo-takeoverplanet.android) **[hold]**
-- [Take Over Planet (Godot, GD)](https://github.com/apostol/demo-takeoverplanet.godot) **[hold]**
-
 ## AWS
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
   - FrontEnd
@@ -15,9 +11,6 @@
     - [TypeScript](https://www.typescriptlang.org/)
     - [Serverless](https://www.serverless.com/)
     - [NodeJs](https://nodejs.org/en/)
-
-## Flutter
-- [QuestBook Store Mobile Application](https://github.com/apostol/questbook-store-flutter) **[hold]**
 
 ## Tools
 - [gRPC<->GraphQL](https://github.com/apostol/grpc2graphQL) **[in progress]**
@@ -32,6 +25,14 @@
   - [Quasar](https://quasar.dev/)
   - [VueJS](https://vuejs.org/)
   - [Pinia](https://pinia.vuejs.org/)
+
+## Games
+- [Take Over Planet (Android, Java)](https://github.com/apostol/demo-takeoverplanet.android) **[hold]**
+- [Take Over Planet (Godot, GD)](https://github.com/apostol/demo-takeoverplanet.godot) **[hold]**
+
+## Flutter
+- [QuestBook Store Mobile Application](https://github.com/apostol/questbook-store-flutter) **[hold]**
+
 
 <!-- 🔭 I’m currently working on -->
 <!-- 🌱 I’m currently learning AWS Cloud -->
