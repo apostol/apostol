@@ -20,7 +20,7 @@
   - [GraphQL](https://graphql.org/)
   - [Docker](https://www.docker.com/)
 
-## As techer in IT-Cube Izhevsk
+## IT-Cube Izhevsk
 - Mobile(Android, IPhone) Application for Russia Museum (repo is private) **[in progress]**
   - [Quasar](https://quasar.dev/)
   - [VueJS](https://vuejs.org/)
