@@ -5,19 +5,19 @@
 
 ## AWS
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) [in progress]
--- FrontEnd(VueJS) [in progress]
--- FrontEnd(ReactJS) [in progress]
--- FrontEnd(AngularJS) [in progress]
--- BackEnd(NodeJs) [in progress]
-
+  - FrontEnd(VueJS) [in progress]
+  - FrontEnd(ReactJS) [in progress]
+  - FrontEnd(AngularJS) [in progress]
+  - BackEnd(NodeJs) [in progress]
 
 ## Flutter
 - [QuestBook Store Mobile Application](https://github.com/apostol/questbook-store-flutter) [in progress, hold]
 
 ## As techer in IT-Cube Izhevsk
 - Mobile(Android, IPhone) Application for Russia Museum [in progress]
--- Quasar
--- VueJS
+  - [Quasar](https://quasar.dev/)
+  - [VueJS](https://vuejs.org/)
+  - [Pinia](https://pinia.vuejs.org/)
 
 <!-- 🔭 I’m currently working on -->
 <!-- 🌱 I’m currently learning AWS Cloud -->
