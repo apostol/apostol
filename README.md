@@ -21,7 +21,7 @@
   - [Docker](https://www.docker.com/)
 
 ## IT-Cube Izhevsk
-- Mobile(Android, IPhone) Application for Russia Museum (repo is private) **[in progress]**
+- **(as teacher)** Mobile(Android, IPhone) Application for Russia Museum (repo is private) **[in progress]**
   - [Quasar](https://quasar.dev/)
   - [VueJS](https://vuejs.org/)
   - [Pinia](https://pinia.vuejs.org/)
