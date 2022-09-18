@@ -5,10 +5,16 @@
 
 ## AWS
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) [in progress]
-  - FrontEnd(VueJS) [in progress]
+  - FrontEnd [in progress]
+    - [VueJS](https://vuejs.org/)
   - FrontEnd(ReactJS) [in progress]
+    - [ReactJS](https://reactjs.org/)
   - FrontEnd(AngularJS) [in progress]
-  - BackEnd(NodeJs) [in progress]
+    - [AngularJS](https://angularjs.org/)
+  - BackEnd [in progress]
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [Serverless](https://www.serverless.com/)
+    - [NodeJs](https://nodejs.org/en/)
 
 ## Flutter
 - [QuestBook Store Mobile Application](https://github.com/apostol/questbook-store-flutter) [hold]
