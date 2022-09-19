@@ -1,4 +1,3 @@
-# Projects
 ## AWS
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
   - FrontEnd(VueJS)
