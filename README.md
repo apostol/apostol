@@ -1,13 +1,13 @@
 # Projects
 ## AWS
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
-  - FrontEnd
+  - FrontEnd(VueJS)
     - [VueJS](https://vuejs.org/)
-  - FrontEnd(ReactJS
+  - FrontEnd(ReactJS)
     - [ReactJS](https://reactjs.org/)
-  - FrontEnd(AngularJS)
+  - FrontEnd(Angular)
     - [AngularJS](https://angularjs.org/)
-  - BackEnd
+  - BackEnd [source](https://github.com/apostol/questbook-aws)
     - [TypeScript](https://www.typescriptlang.org/)
     - [Serverless](https://www.serverless.com/)
     - [NodeJs](https://nodejs.org/en/)
