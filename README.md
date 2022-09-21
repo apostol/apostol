@@ -1,9 +1,9 @@
 ## AWS
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
   - FrontEnd
-    - on [VueJS](https://vuejs.org/)
-    - on [ReactJS](https://reactjs.org/) [source](https://github.com/apostol/questbook-store-react.git)
-    - on [AngularJS](https://angularjs.org/)
+    - on [VueJS](https://vuejs.org/) **[planned]**
+    - on [ReactJS](https://github.com/apostol/questbook-store-react.git) **[in progress]**
+    - on [AngularJS](https://angularjs.org/) **[planned]**
   - BackEnd [source](https://github.com/apostol/questbook-aws)
     - [TypeScript](https://www.typescriptlang.org/)
     - [Serverless](https://www.serverless.com/)
