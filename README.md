@@ -2,7 +2,7 @@
 - Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
   - FrontEnd(VueJS)
     - [VueJS](https://vuejs.org/)
-  - FrontEnd(ReactJS)
+  - FrontEnd [source](git@github.com:apostol/questbook-store-react.git)
     - [ReactJS](https://reactjs.org/)
   - FrontEnd(Angular)
     - [AngularJS](https://angularjs.org/)
