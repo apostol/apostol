@@ -1,5 +1,5 @@
 ## AWS
-- Internet Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
+- QuestBook Shop based on [EPAM AWS JS course](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial) **[in progress]**
   - FrontEnd
     - on [VueJS](https://vuejs.org/) **[planned]**
     - on [ReactJS](https://github.com/apostol/questbook-store-react.git) **[in progress]**
