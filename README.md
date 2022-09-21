@@ -4,7 +4,7 @@
     - on [VueJS](https://vuejs.org/) **[planned]**
     - on [ReactJS](https://github.com/apostol/questbook-store-react.git) **[in progress]**
     - on [AngularJS](https://angularjs.org/) **[planned]**
-  - BackEnd [source](https://github.com/apostol/questbook-aws)
+  - BackEnd [source](https://github.com/apostol/questbook-aws) **[in progress]**
     - [TypeScript](https://www.typescriptlang.org/)
     - [Serverless](https://www.serverless.com/)
     - [NodeJs](https://nodejs.org/en/)
